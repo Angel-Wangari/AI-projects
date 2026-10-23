@@ -33,4 +33,4 @@ https://ai-project-edycekhuusnwvwnotftzqt.streamlit.app/
 
 ---
 
-## Project Structure
+
